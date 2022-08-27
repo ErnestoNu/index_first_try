@@ -1,3 +1,3 @@
 #testdechangement4
 
-del = 100
+del = 10
