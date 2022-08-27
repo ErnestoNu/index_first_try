@@ -1,8 +1,8 @@
 #Ce programe va permettre de resortir les valeurs de stoks pour un ou des utilisateurs
 #Il permettra aussi de tenir un regisrtre d'utilisateurs
 from tempfile import TemporaryDirectory
+#changement
 
-#hui
 start_date="2022-07-15"
 end_date="2022-07-22"
 from ast import Break
